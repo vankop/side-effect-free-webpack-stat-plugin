@@ -1,0 +1,19 @@
+{
+  "name": "side-effect-free-webpack-stat-plugin",
+  "version": "1.0.0",
+  "description": "Add side effect free flag to webpack build stats",
+  "main": "./index.js",
+  "module": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vankop/side-effect-free-webpack-stat-plugin.git"
+  },
+  "files": ["./index.js"],
+  "keywords": ["webpack"],
+  "author": "Ivan Kopeykin <ivan.kopeykin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vankop/side-effect-free-webpack-stat-plugin/issues"
+  },
+  "homepage": "https://github.com/vankop/side-effect-free-webpack-stat-plugin#readme"
+}
